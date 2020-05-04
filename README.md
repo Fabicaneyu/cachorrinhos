@@ -1,9 +1,7 @@
 <h1 align="center"> {JustDoIT} </h1>
 
-[<img src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=115 > <br> <sub> JDIT </sub>](https://github.com/BandTec/JustDoIT) |
+[<img src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=250 > <br> <sub> JDIT - Just Do IT - Apenas faça tecnologia da informação </sub>](https://github.com/BandTec/JustDoIT) |
 | :---: |
-
-<img src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação">	
 
 ## Descrição do Projeto
 <p align="justify"> Nosso projeto tem o intuito de
@@ -32,8 +30,6 @@ ambos aprenderão. </p>
 > Status do Projeto: Em desenvolvimento :warning:
 
 ## Deploy da Aplicação com Azure Apps: :dash:
-
-/* Aqui estamos usando a tag Quotes do markdown*/
 
 > Em breve
 
