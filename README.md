@@ -1,27 +1,16 @@
-# {JustDoIT} 
+## Titulo 
+<h1 align="center"> {JustDoIT} </h1>
 
-> A Vue.js project
+<img src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação">	
 
-## Build Setup
+## Descrição do Projeto
+<p align="justify"> Nosso projeto tem o intuito de
+estimular e encorajar as pessoas
+que sentem vontade de seguir
+carreira na área de TI e também
+estimular quem possui
+experiência a dividir seu
+conhecimento, conectando-os
+ambos aprenderão. </p>
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
