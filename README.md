@@ -1,7 +1,17 @@
 <h1 align="center"> {JustDoIT} </h1>
 
-[<img src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=250 > <br> <sub> JDIT - Just Do IT - Apenas faça tecnologia da informação </sub>](https://github.com/BandTec/JustDoIT) |
+[<img align="center" src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=250 > <br> <sub> JDIT - Just Do IT - Apenas faça tecnologia da informação </sub>](https://github.com/BandTec/JustDoIT) |
 | :---: |
+
+## Desenvolvedores :octocat:
+
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+| :---: |  
+
+
+
+
+> Status do Projeto: Em desenvolvimento :warning:
 
 ## Descrição do Projeto
 <p align="justify"> Nosso projeto tem o intuito de
@@ -13,7 +23,7 @@ experiência a dividir seu
 conhecimento, conectando-os
 ambos aprenderão. </p>
 
-## O que a plataforma irá fazer :checkered_flag:
+## O que a plataforma irá possuir:checkered_flag:
 
 :trophy: Site Institucional
 
@@ -27,7 +37,6 @@ ambos aprenderão. </p>
 
 :trophy: Comunicação via chat
 
-> Status do Projeto: Em desenvolvimento :warning:
 
 ## Deploy da Aplicação com Azure Apps: :dash:
 
@@ -47,4 +56,4 @@ ambos aprenderão. </p>
 
 
 
-## Linguagens, dependencias e libs utilizadas :github:
+
