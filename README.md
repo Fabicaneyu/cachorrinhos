@@ -1,26 +1,28 @@
 <h1 align="center"> {JustDoIT} </h1>
 
-[<img align="center" src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=250 > <br> <sub> JDIT - Just Do IT - Apenas faça tecnologia da informação </sub>](https://github.com/BandTec/JustDoIT) |
-| :---: |
+<p align="center">
+  [<img align="center" src="logo1_branco.png" alt="imagem do logotipo da Just Do IT - Apenas faça tecnologia da informação" width=250 > <br> <sub> JDIT - Just Do IT - Apenas faça tecnologia da informação </sub>](https://github.com/BandTec/JustDoIT) |
+</p>
 
 ## Desenvolvedores :octocat:
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Amanda Nunes </sub>](https://github.com/amand4nunes) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Cassio Jr </sub>](https://github.com/Cassio-2012) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Ester Paixão </sub>](https://www.linkedin.com/in/ester-paix%C3%A3o-3816511a3/) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Fabíola Canedo </sub>](https://github.com/Fabicaneyu) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Messias de Carvalho </sub>](https://github.com/messiassss/Messias) |
-| :---: |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Victor Silva </sub>](https://github.com/vsilva2019) |
-| :---: |  
+[<img src="https://media-exp1.licdn.com/dms/image/C5603AQGl0X-eNoaO7Q/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=0H_CWbx3H57a9HCDwY4We6D6euQuEv0ERqW0psO-MzI" width=115 > <br> <sub> Amanda Nunes </sub>](https://github.com/amand4nunes) | [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHB56Xvo0OGzA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=U-gvM2UMGYpo3OYMUh4WaFPx5snH5iMQv_BqWIjskEM" width=115 > <br> <sub> Cassio Jr </sub>](https://github.com/Cassio-2012) | [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEXNajc2j6b8g/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=l6w33Ak1oTBRKLNsruJlM3sDz1EwY2ojc7kPNYG-Gzk" width=115 > <br> <sub> Ester Paixão </sub>](https://www.linkedin.com/in/ester-paix%C3%A3o-3816511a3/) | [<img src="https://avatars3.githubusercontent.com/u/41839566?s=460&u=c7a25328129257bf9e790fe4bd94346091f1eebe&v=4" width=115 > <br> <sub> Fabíola Canedo </sub>](https://github.com/Fabicaneyu) | [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEnmas1LbtbBg/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=nfqi4iTJq64wwfXTMkdcA-ckdVK-gE7wCG8kkNIK5xA" width=115 > <br> <sub> Messias de Carvalho </sub>](https://github.com/messiassss/Messias) |[<img src="https://media-exp1.licdn.com/dms/image/C4D03AQEgB71INc3dtA/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=9BHIohB_-E6cuOa7vXCMR7-cazQCsowopouo9bMrvQc" width=115 > <br> <sub> Victor Silva </sub>](https://github.com/vsilva2019) |
+| :---: | :---: | :---: | :---: | :---: | :---: 
+
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-## Descrição do Projeto
+### Tópicos 
+
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto-star)
+
+:small_blue_diamond: [Plataforma JDIT](#plataforma-JDIT-checkered_flag)
+
+:small_blue_diamond: [Deploy da Aplicação com Azure Apps](#deploy-da-aplicação-com-azure-apps-dash)
+
+:small_blue_diamond: [Linguagens, dependencias e libs utilizadas ](#linguagens-dependencias-e-libs-utilizadas-books)
+
+## Descrição do projeto :star:
 <p align="justify"> Nosso projeto tem o intuito de
 estimular e encorajar as pessoas
 que sentem vontade de seguir
@@ -30,7 +32,7 @@ experiência a dividir seu
 conhecimento, conectando-os
 ambos aprenderão. </p>
 
-## O que a plataforma irá possuir:checkered_flag:
+## Plataforma JDIT :checkered_flag:
 
 :trophy: Site Institucional
 
