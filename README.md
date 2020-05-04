@@ -5,11 +5,18 @@
 
 ## Desenvolvedores :octocat:
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Amanda Nunes </sub>](https://github.com/amand4nunes) |
 | :---: |  
-
-
-
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Cassio Jr </sub>](https://github.com/Cassio-2012) |
+| :---: |  
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Ester Paixão </sub>](https://www.linkedin.com/in/ester-paix%C3%A3o-3816511a3/) |
+| :---: |  
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Fabíola Canedo </sub>](https://github.com/Fabicaneyu) |
+| :---: |  
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Messias de Carvalho </sub>](https://github.com/messiassss/Messias) |
+| :---: |  
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Victor Silva </sub>](https://github.com/vsilva2019) |
+| :---: |  
 
 > Status do Projeto: Em desenvolvimento :warning:
 
